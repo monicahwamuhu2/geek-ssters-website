@@ -122,7 +122,7 @@ const TeamSection = () => {
     },
     {
       name: "Jeanne Wanjiru",
-      role: "Co-founder & Community Lead",
+      role: " Community Growth manager",
       image: "/images/jeanne.jpg",
       linkedin: "https://www.linkedin.com/in/jeannekilimo/",
       portfolio: "#",
