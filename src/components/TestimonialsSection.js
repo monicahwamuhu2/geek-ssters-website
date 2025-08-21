@@ -73,16 +73,16 @@ const TestimonialsSection = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Wangari Maathai",
-      role: "Computer Science Student, University of Nairobi",
+      name: "Faith Chemutai",
+      role: "AI & Data Science Innovator",
       quote: "Joining Geek-ssters transformed my STEM journey. The mentorship and community support gave me the confidence to pursue my passion for AI. The weekly webinars are incredibly insightful!",
       rating: 5,
       program: "Technical Track: AI/ML"
     },
     {
       id: 2,
-      name: "Asha Juma",
-      role: "Software Engineer, Microsoft",
+      name: "Sandra Johns",
+      role: "Mentor",
       quote: "As a mentor in the Geek-ssters community, I've witnessed remarkable growth in these young women. Their dedication to breaking the silicon ceiling inspires me daily. The leadership program is truly transformative.",
       rating: 5,
       program: "Non-Technical Track: Leadership Development"
